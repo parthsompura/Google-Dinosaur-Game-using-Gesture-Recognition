@@ -9,6 +9,5 @@ How to play:
 4. Put your clenched fist in the Green Box, and start the game.
 5. Open your fist to Jump, clench back again to stop Jumping.
 
-![Demo] (Gesture Recognition/demo.webm)
 
 Reference: https://github.com/Sadaival/Hand-Gestures/blob/master/gesture.py
