@@ -1,7 +1,7 @@
 # Google-Dinosaur-Game-using-Gesture-Recognition
 This is an implementation of Google Dinosaur Game using Gesture Recognition which uses hand gestures for making the jump 🖐 and running ✊ of the dinosaur 🦖.
 
-![Demo](/Gesture Recognition/demo.gif)
+![Demo] (/Gesture Recognition/demo.gif)
 
 How to play:
 
